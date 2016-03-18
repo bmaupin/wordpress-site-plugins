@@ -6,7 +6,7 @@ Description: Creates a Site Plugins page, much like the Site Themes page
 enable or disable (remove from blog Plugins page--wp-admin/plugins.php) 
 plugins sitewide as well as to activate or deactivate a specific plugin for a 
 specific blog (useful when plugins have been disabled).
-Version: 3.1.4.1
+Version: 0.1
 Author: bmaupin
 */
 
